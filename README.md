@@ -35,6 +35,9 @@ Image:
 
 
 
+![recents-works-grid-praticte](https://user-images.githubusercontent.com/99773088/163681235-e271b99a-2280-48b2-a954-a1c285fbd4ed.png)
+
+
 ## Tech Stack
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
